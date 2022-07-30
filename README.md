@@ -1,16 +1,5 @@
-# flutter_timer_getx
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Flutter_Simple_Timer_with_Getx
+#dark & light
+![Screenshot_1659178711](https://user-images.githubusercontent.com/78425511/181907904-fa913fb0-f7b0-4115-9ed8-dd0895907162.png)
+![Screenshot_1659178707](https://user-images.githubusercontent.com/78425511/181907906-23029433-2ab5-4ff8-8190-f41740041cef.png)
+![Screenshot_1659178699](https://user-images.githubusercontent.com/78425511/181907907-02140a80-7865-474d-bae2-caaf00b368c9.png)
